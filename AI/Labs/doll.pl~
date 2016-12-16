@@ -1,0 +1,6 @@
+contains(katrina,olga).
+contains(olga, natsha).
+contains(natsha, irina).
+
+
+

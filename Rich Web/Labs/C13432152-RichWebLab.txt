@@ -1,0 +1,13 @@
+Rich Web Applications lab
+28th of September 2016
+
+C13432152
+Jonathan Riordan
+
+1: https://jsbin.com/libupi/edit?html,css,output
+
+2: https://jsbin.com/fokoyo/18/edit?html,css,console,output
+
+3: https://jsbin.com/niqoxu/edit?html,css,output
+
+4: https://jsbin.com/tarepux/edit?html,css,output

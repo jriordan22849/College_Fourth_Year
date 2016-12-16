@@ -1,0 +1,9 @@
+Student Name: Jonathan Riordan
+Student ID: C13432152
+
+Calculator in javascript
+https://jsbin.com/hosizu/8/edit?js,output
+
+
+Javascript ES6 to implement a 1D, 2-colour cellular automaton 
+https://jsbin.com/murimam/1/edit?js,output

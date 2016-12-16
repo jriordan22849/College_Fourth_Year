@@ -1,0 +1,13 @@
+Rich Web Lab 3.
+Jonathan Riordan
+C13432152
+26/10/2016
+
+Calculator 
+https://jsbin.com/buxidu/edit?js,output
+
+Part 2 
+https://jsbin.com/sinusuh/edit?js,console
+
+Fetch
+http://jsbin.com/setoru/edit?js,console
